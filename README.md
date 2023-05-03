@@ -6,5 +6,7 @@ To the best of our knowledge, Seeker is the first work to propose task-aware cor
 
 Following is the block diagram of Seeker:
 ![ResearchDiagrams-Page-3](https://user-images.githubusercontent.com/15208196/236058165-f3106e1a-f6ff-432d-9f75-3310df393f4c.jpg)
+
 Seeker ecosystem includes both a sensor-array and a host. The goal is to maximize the compute at the edge and communicate the leftover compute in an efficient way to the host to finish. Seeker uses the following decision process to xecute its entire workflow:
+
 ![ResearchDiagrams-Page-4](https://user-images.githubusercontent.com/15208196/236057904-cac02977-f4cf-41f6-9bd4-8ed9d8154ebd.jpg)
